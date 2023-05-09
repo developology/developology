@@ -21,4 +21,3 @@ I look forward to connecting with you and collaborating on some exciting web dev
 
 ![Screenshot 2023-05-03 173904](https://user-images.githubusercontent.com/132450823/235911777-5eaed6f3-6cab-4253-a485-2abfb419a1d9.png)
 
-📫 How to reach me: @riitxzz on instagram 
