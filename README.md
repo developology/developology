@@ -6,7 +6,7 @@ I'm Riddhi, an aspiring web developer passionate about creating beautiful and fu
 
 I've always been drawn to the world of technology and its power to connect people from around the world. As I began to explore the field of web development, I quickly discovered that it was the perfect way to combine my love for technology with my creative instincts.
 
-To date, I have specialized in <i> HTML 5, CSS, Bootstrap, Javascript, WordPress, and exploring ReactJS. </i> I'm always looking for new challenges and opportunities to expand my skills.
+To date, I have specialized in <i> <b> HTML 5, CSS, Bootstrap, Javascript, WordPress, and exploring ReactJS. </b> </i> I'm always looking for new challenges and opportunities to expand my skills.
 Web development is a constantly evolving field, and it's important to stay up-to-date with the latest trends and technologies to provide the best possible experience for users.
 
 In my free time, you can usually find me tinkering with new projects, randering around some challenging UX-UI designs, or simply enjoying some quality time with my family and friends.
