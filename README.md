@@ -11,7 +11,7 @@ Web development is a constantly evolving field, and it's important to stay up-to
 I’m seeking help from anyone who wishes to work with me as a team and accomplish the needed goals. 
 I look forward to connecting with you and collaborating on some exciting web development projects!
 
-[![MY PORTFOLIO](https://img.shields.io/badge/MY_PORTFOLIO-555555?style=for-the-badge&labelColor=555555&color=555555&logoColor=black)](https://developology.github.io/RiddhiAgrawal)
+[![MY PORTFOLIO](https://img.shields.io/badge/MY_PORTFOLIO-555555?style=for-the-badge&labelColor=555555&color=555555&logoColor=black)](https://developology.github.io/riddhiagrawal.in)
 
 
 <b>Languages I can Code in: </b>
