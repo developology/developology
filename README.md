@@ -24,7 +24,7 @@ I look forward to connecting with you and collaborating on some exciting web dev
     <li style="padding: 5px 0;">MySQL</li>
     <li style="padding: 5px 0;">Bootstrap</li>
     <li style="padding: 5px 0;">JQuery</li>
-    <li style="padding: 5px 0;">ReactJS</li>
+    <li style="padding: 5px 0;">Angular</li>
 </ul>
 
 
